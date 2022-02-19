@@ -1,3 +1,3 @@
 # TimeSeriesPrediction
 
-Building a time series prediction model using SARIMA and perform data analysis
+Time Series Data analysis and predictive model using SARIMA.
